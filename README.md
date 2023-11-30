@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a minecraft plugin developer.
+👋 Hello there! I'm DaweY, a Minecraft plugin developer.
+
+🕹️ As someone deeply immersed in the Minecraft, I find joy in creating plugins that enhance the gaming experience. My coding journey extends beyond Minecraft, as I also contribute to the development of Uniassist.
 
 
 ## 🌐 Socials:
