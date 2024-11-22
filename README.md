@@ -1,7 +1,9 @@
 # 💫 About Me:
-👋 Hello there! I'm DaweY, a Minecraft plugin developer.
+Hi there! 👋 I'm DaweY, currently pursuing a degree in Computer Engineering at John von Neumann University in Kecskemét.
 
-🕹️ As someone deeply immersed in the Minecraft, I find joy in creating plugins that enhance the gaming experience. My coding journey extends beyond Minecraft, as I also contribute to the development of Uniassist.
+I have a passion for programming and spend most of my time developing software. My favorite projects involve creating plugins for Minecraft servers, but I also contribute to larger projects like the UniAssist application, where I work as a developer.
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about programming!
 
 
 ## 🌐 Socials:
