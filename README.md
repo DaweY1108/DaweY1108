@@ -1,114 +1,74 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+DaweY;Software+Developer+@+Andritz+Kft.;Computer+Engineer+🎓;Minecraft+Plugin+Developer;Web+%26+Mobile+Creator" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B088F9&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+DaweY;Software+Developer+@+Andritz+Kft.;Computer+Engineer+🎓;Minecraft+Plugin+Developer;Web+%26+Mobile+Creator" alt="Typing SVG" />
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="300" valign="top" style="border: none;">
-      <samp>
-        <h3>👨‍💻 Personal Card</h3>
-        <hr>
-        <p><strong>Name:</strong> Varga Dávid Zsolt</p>
-        <p><strong>Role:</strong> Software Developer</p>
-        <p><strong>Company:</strong> Andritz Kft.</p>
-        <p><strong>Location:</strong> Hungary 🇭🇺</p>
-        <hr>
-        <p>🎓 <strong>Degree:</strong><br/>Computer Engineer (BSc)</p>
-        <p>🎯 <strong>Specialization:</strong><br/>Web & Mobile Dev</p>
-      </samp>
-    </td>
-    <td valign="top" style="border: none; padding-left: 20px;">
-      <h3>💫 About Me</h3>
-      <p>Passionate about crafting clean, efficient, and scalable code. During the day, I work on industrial-grade software solutions at <strong>Andritz Kft</strong>.</p>
-      <p>My creative journey continues after hours, where I specialize in building **custom web applications** and maintaining a deep, long-standing passion for developing **Minecraft server plugins**.</p>
-      <p>I love turning complex problems into simple, beautiful digital experiences. Explore my repositories to see what I've been up to!</p>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+### 💜 About Me
+
+I'm <b>Varga Dávid Zsolt</b> (DaweY), a passionate Software Developer based in Hungary. 🚀<br/>
+I recently graduated as a <b>Computer Engineer</b> specializing in <b>Web & Mobile Development</b>.<br/>
+Currently, I am building industrial-grade software at <b>Andritz Kft.</b><br/>
+In my free time, I love creating <b>Minecraft server plugins</b> and custom web applications! ✨
+
+<br/>
+
+### 🌐 Connect with me
+
+<a href="https://instagram.com/vargadavid108"><img src="https://img.shields.io/badge/Instagram-B088F9?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://pinterest.com/vargadavidzsolt"><img src="https://img.shields.io/badge/Pinterest-B088F9?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/></a>
+<a href="https://reddit.com/user/Beautiful_West328"><img src="https://img.shields.io/badge/Reddit-B088F9?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a>
+<a href="https://tiktok.com/@vdave1108"><img src="https://img.shields.io/badge/TikTok-B088F9?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a>
+<a href="https://linkedin.com/in/vargadavidzsolt"><img src="https://img.shields.io/badge/LinkedIn-B088F9?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
 
 ### 💻 Tech Stack
 
-<details open>
-  <summary>🌐 Web & Mobile Development</summary>
-  <p>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  </p>
-</details>
-
 <details>
-  <summary>🔧 Core Programming Languages</summary>
-  <p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </p>
+  <summary><b>✨ Click to see my skills! ✨</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </details>
 
-<details>
-  <summary>💾 Databases, Tools & Platforms</summary>
-  <p>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  </p>
-</details>
-
----
+<br/>
 
 ### 📊 GitHub Dashboard
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dawey1108&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="DaweY's GitHub Stats" />
-    </td>
-    <td valign="top" style="border: none; padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawey1108&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=dawey1108&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="DaweY's GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawey1108&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawey1108&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawey1108&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+### 👾 Fun & Quotes
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>😂 Random Dev Joke</h3>
-      <a href="https://readme-jokes.vercel.app">
-        <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-      </a>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
-       <h3>✍️ Dev Quote</h3>
-       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote Card" />
-    </td>
-  </tr>
-</table>
+<a href="https://readme-jokes.vercel.app">
+  <img src="https://readme-jokes.vercel.app/api?theme=shades-of-purple" alt="Jokes Card" />
+</a>
+<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades-of-purple" alt="Quote Card" />
 
----
+<br/><br/>
 
-<p align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vargadavid108)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/vargadavidzsolt) [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vdave1108)
-</p>
+<a href="https://paypal.me/vdave1108"><img src="https://img.shields.io/badge/Donate-PayPal-B088F9?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+<br/>
+<img src="https://visitcount.itsvg.in/api?id=DaweY1108&icon=0&color=6" alt="Visitor Count" />
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DaweY1108&icon=0&color=0" alt="Visitor Count" />
-</p>
+</div>
