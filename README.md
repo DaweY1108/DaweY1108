@@ -132,9 +132,9 @@ const dawey = {
 ## 😂 Meme of the Day
 
 <p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/dawey1108/dawey1108/output/meme.png" alt="Random programming meme" />
+  <img width="420" src="https://raw.githubusercontent.com/dawey1108/dawey1108/output/meme.svg" alt="Random programming meme" />
   <br />
-  <sub>Freshly fetched from r/ProgrammerHumor · auto-refreshed by a GitHub Action 🤖</sub>
+  <sub>Fresh from r/ProgrammerHumor (or a random dev joke) · auto-refreshed by a GitHub Action 🤖</sub>
 </p>
 
 ---
