@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -30,7 +30,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4   # a meme.py miatt; a kígyó előtt, mert a checkout üríti a mappát
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # a mém a kígyó ELŐTT készül, mert a snk Docker-action root jogú dist mappát hoz létre
+      - name: Fetch random programming meme (joke card as fallback)
+        run: |
+          pip install --quiet pillow
+          python .github/scripts/meme.py
 
       - uses: Platane/snk@v3
         with:
@@ -38,11 +48,6 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#a855f7&color_dots=#ebedf0,#e9d5ff,#c084fc,#a855f7,#7e22ce
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#06b6d4&color_dots=#161b22,#3b1f5c,#6b2fa8,#a855f7,#c084fc
-
-      - name: Fetch random programming meme (joke card as fallback)
-        run: |
-          pip install --quiet pillow
-          python .github/scripts/meme.py
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
