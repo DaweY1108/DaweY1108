@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:06b6d4&height=200&section=header&text=DaweY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20Web%20%26%20Mobile%20%C2%B7%20Minecraft%20Plugins&descSize=18&descAlignY=57&descColor=e5e7eb" alt="DaweY" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:06b6d4&height=200&section=header&text=DaweY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20Minecraft%20Plugins&descSize=18&descAlignY=57&descColor=e5e7eb" alt="DaweY" />
 </p>
 
 <p align="center">
@@ -98,8 +98,21 @@ const dawey = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawey1108&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=06b6d4&text_color=8b949e&ring_color=a855f7" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawey1108&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=8b949e" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/radical/0-profile-details.svg" />
+    <img width="100%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/radical/3-stats.svg" />
+    <img width="49%" src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/radical/2-most-commit-language.svg" />
+    <img width="49%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
@@ -112,6 +125,16 @@ const dawey = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawey1108/dawey1108/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/dawey1108/dawey1108/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 😂 Meme of the Day
+
+<p align="center">
+  <img width="420" src="https://raw.githubusercontent.com/dawey1108/dawey1108/output/meme.png" alt="Random programming meme" />
+  <br />
+  <sub>Freshly fetched from r/ProgrammerHumor · auto-refreshed by a GitHub Action 🤖</sub>
 </p>
 
 ---
