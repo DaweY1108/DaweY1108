@@ -1,22 +1,31 @@
-name: Generate Snake
+name: Generate snake animation
+ 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
+    - cron: "0 */12 * * *"   # 12 óránként frissít
+  workflow_dispatch:          # kézzel is indítható
+  push:
+    branches: [main]
+ 
+permissions:
+  contents: write
+ 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: dawey1108
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+            dist/github-snake.svg?color_snake=#a855f7&color_dots=#ebedf0,#e9d5ff,#c084fc,#a855f7,#7e22ce
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#06b6d4&color_dots=#161b22,#3b1f5c,#6b2fa8,#a855f7,#c084fc
+ 
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
