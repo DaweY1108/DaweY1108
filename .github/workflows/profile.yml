@@ -1,0 +1,61 @@
+# Helye a repóban: .github/workflows/profile.yml
+# Ez váltja ki a korábbi snake.yml-t — azt töröld!
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 12 óránként: új mém, friss kígyó és statok
+  workflow_dispatch:          # kézzel is indítható (Actions → Run workflow)
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  # 📊 Statkártyák — a repóba generálja őket, így nem függ külső szervertől
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+  # 🐍 Kígyó + 😂 napi mém → "output" branch
+  assets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#a855f7&color_dots=#ebedf0,#e9d5ff,#c084fc,#a855f7,#7e22ce
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#06b6d4&color_dots=#161b22,#3b1f5c,#6b2fa8,#a855f7,#c084fc
+
+      - name: Fetch random programming meme
+        run: |
+          mkdir -p dist
+          for i in 1 2 3 4 5 6 7 8; do
+            json=$(curl -sf https://meme-api.com/gimme/ProgrammerHumor) || continue
+            # csak nem-NSFW, nem-spoiler, jpg/png képek
+            url=$(echo "$json" | jq -r 'select(.nsfw == false and .spoiler == false) | .url // empty')
+            case "$url" in
+              *.jpg|*.jpeg|*.png)
+                curl -sfL "$url" -o dist/meme.png && echo "Meme: $url" && break ;;
+            esac
+          done
+          # ha nem sikerült újat szerezni, megtartjuk az előzőt
+          if [ ! -s dist/meme.png ]; then
+            curl -sfL "https://raw.githubusercontent.com/${{ github.repository }}/output/meme.png" -o dist/meme.png || true
+          fi
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
