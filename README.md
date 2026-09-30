@@ -1,236 +1,139 @@
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED WAVE BANNER -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:06b6d4&height=220&section=header&text=DaweY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20✨&descSize=20&descAlignY=55&descColor=d1d5db" />
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ ANIMATED TYPING -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:06b6d4&height=200&section=header&text=DaweY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20Web%20%26%20Mobile%20%C2%B7%20Minecraft%20Plugins&descSize=18&descAlignY=57&descColor=e5e7eb" alt="DaweY" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+D%C3%A1vid;Software+Developer+%40+Andritz+Kft.;Web+%26+Mobile+Creator+%7C+Plugin+Dev;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Hi+there!+I'm+D%C3%A1vid+%F0%9F%91%8B;Software+Developer+%40+Andritz+Kft.;Web+%26+Mobile+Developer;Exploring+.NET+%2F+Blazor+%26+Cloud;Minecraft+plugin+author+(Java)" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ═══ Animated Divider ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Based_in-Hungary_🇭🇺-a855f7?style=flat-square" alt="Based in Hungary" />
+  <img src="https://img.shields.io/badge/Working_at-Andritz_Kft.-06b6d4?style=flat-square" alt="Andritz Kft." />
+  <a href="https://linkedin.com/in/vargadavidzsolt"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 ABOUT ME + PERSONAL CARD -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="320" valign="top">
-      <div align="center">
+I'm **Varga Dávid Zsolt**, a Computer Engineer (BSc) specialized in **web & mobile development**, currently building **industrial-grade software at Andritz Kft.**
+I care about code that is **clean, efficient and scalable** — and about turning complex problems into simple, pleasant digital experiences.
 
-```yaml
-🧑‍💻 Personal Card
-━━━━━━━━━━━━━━━━━━
-Name:     Varga Dávid Zsolt
-Alias:    DaweY
-Role:     Software Developer
-Company:  Andritz Kft.
-Location: Hungary 🇭🇺
-━━━━━━━━━━━━━━━━━━
-🎓 Degree:
-  Computer Engineer (BSc)
-🎯 Specialization:
-  Web & Mobile Development
-🕹️ Hobby Project:
-  Minecraft Plugin Dev
-━━━━━━━━━━━━━━━━━━
+After hours I build **custom web applications** and keep up a long-running passion: **Minecraft server plugins** in Java.
+
+```ts
+const dawey = {
+  name:       "Varga Dávid Zsolt",
+  role:       "Software Developer @ Andritz Kft.",
+  location:   "Hungary 🇭🇺",
+  education:  "BSc Computer Engineering — Web & Mobile",
+  learning:   [".NET", "Blazor", "Cloud architecture"],
+  sideQuests: ["Custom web apps", "Minecraft plugins (Java)"],
+  askMeAbout: ["Web dev", "Mobile apps", "Java plugins"],
+  debugging:  "print() first, breakpoints later 😄",
+};
 ```
 
-<a href="https://linkedin.com/in/vargadavidzsolt">
-  <img src="https://img.shields.io/badge/Let's_Connect!-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+---
 
-</div>
+## 🛠️ Tech Stack
+
+**Web & Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,flutter,dart,dotnet&theme=dark" alt="Web & Mobile" />
+</p>
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark" alt="Languages" />
+</p>
+
+**Data & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,git,arduino&theme=dark" alt="Data & Tools" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏭 Industrial Software</h3>
+      Professional work at <b>Andritz Kft.</b> — reliable software for industrial environments, where stability matters more than hype.
     </td>
-    <td valign="top" style="padding-left: 20px;">
-
-### 💫 Who am I?
-
-My passion lies in crafting **clean, efficient, and scalable** digital solutions. With a freshly earned degree in **Computer Engineering** specializing in **Web & Mobile Development**, I am now putting my skills into practice as a **Software Developer at Andritz Kft.**, developing industrial-grade software solutions.
-
-My creative journey continues after hours — I specialize in building **custom web applications** and maintain a deep, long-standing passion for developing **Minecraft server plugins**. I love turning complex problems into simple, beautiful digital experiences.
-
-**A few quick bits about me:**
-
-- 🔭 Currently working on **industrial software** at Andritz Kft.
-- 🌱 Always learning — diving deeper into **.NET / Blazor** & cloud architectures
-- 🎮 Building **Minecraft plugins** in my spare time
-- 💬 Ask me about **Web Dev, Mobile Apps, or Java Plugins**
-- ⚡ Fun fact: I debug with `print()` before I debug with breakpoints 😄
-
+    <td width="33%" valign="top">
+      <h3>🌐 Custom Web Apps</h3>
+      Tailor-made web applications from backend API to responsive UI, built with <b>Node.js, React, TypeScript</b> and more.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎮 Minecraft Plugins</h3>
+      Custom <b>Java</b> server plugins — gameplay mechanics, admin tools and everything in between.
     </td>
   </tr>
 </table>
 
-<!-- ═══ Animated Divider ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!--
+  📌 Kiemelt repók — cseréld ki a REPO_NEVE részt, és töröld a komment jeleket:
 
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<details open>
-<summary><b>🌐 Web & Mobile Development</b></summary>
-<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white" />
+  <a href="https://github.com/dawey1108/REPO_NEVE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawey1108&repo=REPO_NEVE&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=06b6d4&text_color=8b949e" />
+  </a>
+  <a href="https://github.com/dawey1108/REPO_NEVE_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawey1108&repo=REPO_NEVE_2&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=06b6d4&text_color=8b949e" />
+  </a>
 </p>
-</details>
+-->
 
-<details>
-<summary><b>🔧 Core Programming Languages</b></summary>
-<br>
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>💾 Databases, Tools & Platforms</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-</details>
-
-<!-- ═══ Animated Divider ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB DASHBOARD -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Dashboard</h2>
-
-<!-- 🏆 Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dawey1108&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawey1108&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=06b6d4&text_color=8b949e&ring_color=a855f7" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawey1108&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=8b949e" alt="Top Languages" />
 </p>
 
-<br>
-
-<!-- Stats + Languages side-by-side -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawey1108&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=d1d5db&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawey1108&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=d1d5db&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=dawey1108&hide_border=true&background=00000000&ring=a855f7&fire=06b6d4&currStreakLabel=a855f7&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub Streak" />
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dawey1108&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=d1d5db" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dawey1108&bg_color=0d1117&color=a855f7&line=06b6d4&point=ffffff&area=true&area_color=a855f7&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- 🐍 Snake Animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawey1108/dawey1108/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawey1108/dawey1108/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/dawey1108/dawey1108/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dawey1108/dawey1108/output/github-snake.svg" />
   </picture>
 </p>
 
-> 💡 **Note:** To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk#github-action) to your profile repo at `.github/workflows/snake.yml`
+---
 
-<!-- ═══ Animated Divider ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌐 SOCIALS & FUN -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vargadavidzsolt">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://instagram.com/vargadavid108">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://pinterest.com/vargadavidzsolt">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://reddit.com/user/Beautiful_West328">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://tiktok.com/@vdave1108">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="center">👾 Dev Humor & Inspiration</h3>
-
-<p align="center">
-  <a href="https://readme-jokes.vercel.app">
-    <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117&qColor=a855f7&aColor=06b6d4" alt="Jokes Card" width="45%" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Quote Card" />
-</p>
-
-<!-- ═══ Animated Divider ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ☕ SUPPORT & FOOTER -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">☕ Support My Work</h3>
-
-<p align="center">
-  <a href="https://paypal.me/vdave1108">
-    <img src="https://img.shields.io/badge/Donate_via_PayPal-a855f7?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dawey1108&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://linkedin.com/in/vargadavidzsolt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/vargadavid108"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@vdave1108"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://pinterest.com/vargadavidzsolt"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="https://reddit.com/user/Beautiful_West328"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting! Let's build something amazing together. 🚀</b>
+  <a href="https://paypal.me/vdave1108"><img src="https://img.shields.io/badge/☕_Support_my_work-PayPal-a855f7?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal" /></a>
 </p>
 
-<!-- 🌊 WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:0d1117&height=120&section=footer" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dawey1108&style=flat-square&color=a855f7&label=Profile+views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:0d1117&height=110&section=footer" alt="" />
+</p>
